@@ -1,6 +1,6 @@
-streamlit
-numpy
-pandas
-Pillow
+streamlit==1.39.0
+numpy==1.26.4
+pandas==2.2.3
+opencv-python-headless==4.10.0.84
 insightface==0.7.3
-onnxruntime
+onnxruntime==1.19.2
